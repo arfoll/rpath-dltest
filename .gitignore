@@ -1,0 +1,18 @@
+# Object files
+*.o
+*.lib
+*.so
+*.lo
+*.la
+*.pyc
+
+# Temp files
+*.swp
+*.swo
+*~
+
+# executables/libs
+executable
+lib5.so
+libnum/libnum.so
+libnum/lib10/lib5.so
